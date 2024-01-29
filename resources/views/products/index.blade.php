@@ -46,7 +46,7 @@
 
             <th>Name</th>
 
-            <th>Phone Number</th>
+            <th>Phone Numbers</th>
 
             <th width="280px">Action</th>
 
